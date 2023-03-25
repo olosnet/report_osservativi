@@ -20,10 +20,10 @@ Ci tenevo molto a questa serata, non sapevo cosa
 
 ![Orione con oggetti](./ori.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M42 | NGC 1976 | Nebulosa di Orione | Nebulosa diffusa | 4 | 65' × 60' |
-|  | NGC 1981 |  | Ammasso Aperto | 4,2 | 28' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m42.png) | M42 | NGC 1976 | Nebulosa di Orione | Nebulosa diffusa | 4 | 65' × 60' |
+|![](./ngc1981.png) | NGC 1981 |  | Ammasso Aperto | 4,2 | 28' |
 
 Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori periodo. Ho puntato subito ad M42, non mi stanco mai nel vederla. Volevo inoltre confrontare ciò che ho visto sul terrazzo di casa nella serata di test del telescopio rispetto al cielo del Pollino, decisamente migliore. La nebulosa ai miei occhi appariva di un colore verdastro, rispetto alla visione "casalinga" ho notato un maggior contrasto e una ricchezza maggiore di particolari, il miglior equilibrio tra luminosita e dettagli l'ho avuto a 73x. Successivamente mi sono spostato e ho localizzato subito l'ammasso NGC 1981, in cui, facendo un po' di attenzione, erano presenti delle tenui nebulosità.
 
@@ -32,7 +32,7 @@ Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori 
 
 ![Orione con oggetti](./tau.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M45 |  | Pleiadi | Ammasso aperto | 1,6 | 150' |
 |  | NGC 1647 | | Ammasso aperto | 6,38 | 27' |
@@ -45,7 +45,7 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 
 ![Orsa Maggiore con oggetti](./uma.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M81 | NGC 3031 | Galassia di Bode | Galassia a spirale | 6,8 | 26' × 14' |
 | M82 | NGC 3034 | Galassia Sigaro | Galassia starburst | 9,3 | 11,2' × 4,3' |
@@ -63,7 +63,7 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti.
 ![Dettaglio Cani da Caccia](./cvn_1.jpg)
 
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M3 | NGC 5272 | | Ammasso globulare | 6,2 | 18' |
 | | NGC 4485 | | Galassia irregolare | 11,93 | |
@@ -79,7 +79,7 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Chioma di Berenice con oggetti](./com.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
 |  | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
@@ -88,7 +88,7 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Cancro con oggetti](./cnc.jpg)
 
-| |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 |----------- |----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m44.png) | M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
 |![](./m67.png) | M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
@@ -99,7 +99,7 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Dettaglio Leone con oggetti](./leo_1.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | | NGC 3377 | | Galassia ellittica | 10,2 | 4,2' x 2,3' |
 | | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
@@ -116,7 +116,7 @@ NGC 3389 scarsamente visibile
 
 ![Serpente con oggetti](./ser.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
 Forma che richiama spirale m5
@@ -125,7 +125,7 @@ Forma che richiama spirale m5
 
 ![Vergine con oggetti](./vir.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M104 | NGC 5904 | Galassia sombrero | Galassia a spirale | 8,98 | 8,7' x 3,5' |
 
@@ -133,7 +133,7 @@ Forma che richiama spirale m5
 
 ![Ercole con oggetti](./her.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
 | M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
@@ -142,6 +142,6 @@ Forma che richiama spirale m5
 
 ![Lira con oggetti](./lyr.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
