@@ -116,9 +116,10 @@ NGC 3389 scarsamente visibile
 
 ![Serpente con oggetti](./ser.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m5.png) | M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
+
 Forma che richiama spirale m5
 
 ### Vergine - Vir
