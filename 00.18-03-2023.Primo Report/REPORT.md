@@ -99,15 +99,15 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Dettaglio Leone con oggetti](./leo_1.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| | NGC 3377 | | Galassia ellittica | 10,2 | 4,2' x 2,3' |
-| | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
-| | NGC 3384 | | Galassia ellittica | 10,9 | 5,5' x 2,5' | 
-| M105 | NGC 3379 | | Galassia ellittica | 9,3 | 5,4' x 4,8' | 
-| NGC 3389 | | Galassia a spirale | 12,4 | 2.7' x 1.3' | 
-| M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
-| M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
+| |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./ngc3377.png) || NGC 3377 | | Galassia ellittica | 10,2 | 4,2' x 2,3' |
+|![](./ngc3412.png)  | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
+|![](./ngc3384.jpeg) | NGC 3384 | | Galassia ellittica | 10,9 | 5,5' x 2,5' | 
+|![](./m105.png) | M105 | NGC 3379 | | Galassia ellittica | 9,3 | 5,4' x 4,8' | 
+|![](./ngc3389.png) | | NGC 3389 | | Galassia a spirale | 12,4 | 2.7' x 1.3' | 
+|![](./m96.png) | M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
+|![](./m95.png) M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
 
 Gruppo di M96 ( M95, M96, M105, NGC 3299, NGC 3377, NGC 3384, NGC 3412, NGC 3489)
 NGC 3389 scarsamente visibile
