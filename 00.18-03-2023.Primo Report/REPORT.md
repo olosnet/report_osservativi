@@ -107,7 +107,7 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 |![](./m105.png) | M105 | NGC 3379 | | Galassia ellittica | 9,3 | 5,4' x 4,8' | 
 |![](./ngc3389.png) | | NGC 3389 | | Galassia a spirale | 12,4 | 2.7' x 1.3' | 
 |![](./m96.png) | M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
-|![](./m95.png) M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
+|![](./m95.png) | M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
 
 Gruppo di M96 ( M95, M96, M105, NGC 3299, NGC 3377, NGC 3384, NGC 3412, NGC 3489)
 NGC 3389 scarsamente visibile
