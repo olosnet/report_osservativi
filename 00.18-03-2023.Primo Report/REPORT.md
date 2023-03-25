@@ -45,14 +45,14 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 
 ![Orsa Maggiore con oggetti](./uma.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M81 | NGC 3031 | Galassia di Bode | Galassia a spirale | 6,8 | 26' × 14' |
-| M82 | NGC 3034 | Galassia Sigaro | Galassia starburst | 9,3 | 11,2' × 4,3' |
-| M108 | NGC 3556 | Galassia Surfboard | Galassia a spirale | 10 | 8,3' × 2,5' |
-| M97 | NGC 3587 | Nebulosa Civetta o Gufo | Nebulosa Planetaria | 9,9 | 3,4' x 3,3' |
-| M109 | NGC 3992 | | Galassia a spirale barrata | 9,8 | 7,6' × 4,9' |
-| M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m81.png) | M81 | NGC 3031 | Galassia di Bode | Galassia a spirale | 6,8 | 26' × 14' |
+|![](./m82.png) | M82 | NGC 3034 | Galassia Sigaro | Galassia starburst | 9,3 | 11,2' × 4,3' |
+|![](./m108.png) | M108 | NGC 3556 | Galassia Surfboard | Galassia a spirale | 10 | 8,3' × 2,5' |
+|![](./m97.png)  | M97 | NGC 3587 | Nebulosa Civetta o Gufo | Nebulosa Planetaria | 9,9 | 3,4' x 3,3' |
+|![](./m109.png) | M109 | NGC 3992 | | Galassia a spirale barrata | 9,8 | 7,6' × 4,9' |
+|![](./m101.png) | M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
 
 Qui le cose hanno iniziato a farsi decisamente più interessanti. 
 
