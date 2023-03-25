@@ -79,10 +79,10 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Chioma di Berenice con oggetti](./com.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
-|  | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m53.png)  |M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
+|![](./ngc4565.png) | | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
 
 ### Cancro - Cnc
 
