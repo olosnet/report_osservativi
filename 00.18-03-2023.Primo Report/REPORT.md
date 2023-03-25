@@ -32,11 +32,11 @@ Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori 
 
 ![Orione con oggetti](./tau.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M45 |  | Pleiadi | Ammasso aperto | 1,6 | 150' |
-|  | NGC 1647 | | Ammasso aperto | 6,38 | 27' |
-|  | NGC 1746 | | Ammasso aperto | 6,09 | 18' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m45.png)  | M45 |  | Pleiadi | Ammasso aperto | 1,6 | 150' |
+|![](./ngc1647.png) | | NGC 1647 | | Ammasso aperto | 6,38 | 27' |
+|![](./ngc1746.png)| | NGC 1746 | | Ammasso aperto | 6,09 | 18' |
 
 Ho voluto continuare il riscaldamento, puntando alle Pleiadi: trovate facilmente. A 48x, ovviamente, l'ammasso non ci entrava, mi sono letteralmente perso al suo interno! Visibili anche qui tenui nebulosità accanto alle stelle più luminose.
 NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarmente, anche se complessivamente entrambi gradevoli. Mi sono ripromesso di rivederli successivamente con più esperienza e migliori capacità di analisi.
