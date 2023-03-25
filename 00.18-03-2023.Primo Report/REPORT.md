@@ -134,10 +134,10 @@ Forma che richiama spirale m5
 
 ![Ercole con oggetti](./her.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
-| M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| ![](./m13.png) | M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
+| ![](./m92.png) |M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
 
 ### Lira - Lyr
 
