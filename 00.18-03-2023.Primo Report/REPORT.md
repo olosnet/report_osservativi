@@ -16,9 +16,9 @@ sabato 18 marzo 2023
 
 Ci tenevo molto a questa serata, non sapevo cosa
 
-### Costellazione di Orione - Ori
+### Orione - Ori
 
-![Constellazione di orione con oggetti](./ori.jpg)
+![Orione con oggetti](./ori.jpg)
 
 | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -28,7 +28,9 @@ Ci tenevo molto a questa serata, non sapevo cosa
 Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori periodo. Ho puntato subito ad M42, non mi stanco mai nel vederla. Volevo inoltre confrontare ciò che ho visto sul terrazzo di casa nella serata di test del telescopio rispetto al cielo del Pollino, decisamente migliore. La nebulosa ai miei occhi appariva di un colore verdastro, rispetto alla visione "casalinga" ho notato un maggior contrasto e una ricchezza maggiore di particolari, il miglior equilibrio tra luminosita e dettagli l'ho avuto a 73x. Successivamente mi sono spostato e ho localizzato subito l'ammasso NGC 1981, in cui, facendo un po' di attenzione, erano presenti delle tenui nebulosità.
 
 
-### Costellazione del Toro - Tau
+### Toro - Tau
+
+![Orione con oggetti](./tau.jpg)
 
 | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -39,7 +41,9 @@ Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori 
 Ho voluto continuare il riscaldamento, puntando alle Pleiadi: trovate facilmente. A 48x, ovviamente, l'ammasso non ci entrava, mi sono letteralmente perso al suo interno! Visibili anche qui tenui nebulosità accanto alle stelle più luminose.
 NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarmente, anche se complessivamente entrambi gradevoli. Mi sono ripromesso di rivederli successivamente con più esperienza e migliori capacità di analisi.
 
-### Costellazione dell'Orsa Maggiore - UMa
+### Orsa Maggiore - UMa
+
+![Orsa Maggiore con oggetti](./uma.jpg)
 
 | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -51,3 +55,93 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 | M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
 
 Qui le cose hanno iniziato a farsi decisamente più interessanti. 
+
+### Cani da Caccia - Cvn
+
+![Cani da Caccia con oggetti](./cvn.jpg)
+
+![Dettaglio Cani da Caccia](./cvn_1.jpg)
+
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M3 | NGC 5272 | | Ammasso globulare | 6,2 | 18' |
+| | NGC 4485 | | Galassia irregolare | 11,93 | |
+| | NGC 4490 |  Cocoon Galaxy | Galassia a spirale barrata | 9,8 | 6,3' x 3,1' |
+| M94 | NGC 4736 | | Galassia a spirale | 9,0 | 11.2' × 9.1' |
+| | NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
+| | NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
+
+M3 prima parte 
+Coppia galassie 4618 (debole) 4625(molto debole)
+
+### Chioma di Berenice - Com
+
+![Chioma di Berenice con oggetti](./com.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
+|  | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
+
+### Cancro - Cnc
+
+![Cancro con oggetti](./cnc.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
+| M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
+
+### Leone - Leo
+
+![Leone con oggetti](./leo.jpg)
+
+![Dettaglio Leone con oggetti](./leo_1.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| | NGC 3377 | | Galassia ellittica | 10,2 | 4,2' x 2,3' |
+| | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
+| | NGC 3384 | | Galassia ellittica | 10,9 | 5,5' x 2,5' | 
+| M105 | NGC 3379 | | Galassia ellittica | 9,3 | 5,4' x 4,8' | 
+| NGC 3389 | | Galassia a spirale | 12,4 | 2.7' x 1.3' | 
+| M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
+| M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
+
+Gruppo di M96 ( M95, M96, M105, NGC 3299, NGC 3377, NGC 3384, NGC 3412, NGC 3489)
+NGC 3389 scarsamente visibile
+
+### Serpente - Ser
+
+![Serpente con oggetti](./ser.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
+Forma che richiama spirale m5
+
+### Vergine - Vir
+
+![Vergine con oggetti](./vir.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M104 | NGC 5904 | Galassia sombrero | Galassia a spirale | 8,98 | 8,7' x 3,5' |
+
+### Ercole - Her
+
+![Ercole con oggetti](./her.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
+| M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
+
+### Lira - Lyr
+
+![Lira con oggetti](./lyr.jpg)
+
+| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
