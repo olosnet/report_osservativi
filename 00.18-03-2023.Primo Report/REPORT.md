@@ -88,10 +88,10 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 
 ![Cancro con oggetti](./cnc.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
-| M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
+| |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
+| |----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| | M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
+|![M67](./m67.png) | M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
 
 ### Leone - Leo
 
