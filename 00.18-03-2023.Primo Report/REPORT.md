@@ -143,6 +143,6 @@ Forma che richiama spirale m5
 
 ![Lira con oggetti](./lyr.jpg)
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| ![](./m57.png) | M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
