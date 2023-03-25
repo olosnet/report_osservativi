@@ -63,14 +63,14 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti.
 ![Dettaglio Cani da Caccia](./cvn_1.jpg)
 
 
-| Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M3 | NGC 5272 | | Ammasso globulare | 6,2 | 18' |
-| | NGC 4485 | | Galassia irregolare | 11,93 | |
-| | NGC 4490 |  Cocoon Galaxy | Galassia a spirale barrata | 9,8 | 6,3' x 3,1' |
-| M94 | NGC 4736 | | Galassia a spirale | 9,0 | 11.2' × 9.1' |
-| | NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
-| | NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
+| | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|![](./m3.png)  |M3 | NGC 5272 | | Ammasso globulare | 6,2 | 18' |
+|![](./ngc4485.png)  || NGC 4485 | | Galassia irregolare | 11,93 | |
+|![](./ngc4490.png)  || NGC 4490 |  Cocoon Galaxy | Galassia a spirale barrata | 9,8 | 6,3' x 3,1' |
+|![](./m94.png) |M94 | NGC 4736 | | Galassia a spirale | 9,0 | 11.2' × 9.1' |
+|![](./ngc4618.png) || NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
+|![](./ngc4625.png) || NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
 
 M3 prima parte 
 Coppia galassie 4618 (debole) 4625(molto debole)
