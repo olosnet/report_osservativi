@@ -8,7 +8,7 @@ Un’importante premessa, la mia avventura da astrofilo ha avuto inizio un paio 
 
 Col trascorrere del tempo mi sono accorto però di avere delle mancanze che l’astrofotografia non poteva colmare, almeno nel mio caso: ho foto dettagliate dei soggetti che decido di catturare, per carità, immagini che i miei occhi non riuscirebbero mai e poi mai a recepire con colori sfavillanti e particolari impressionanti. Ma non mi ero accorto, sommerso dal rumore della tecnica, di non avere quel contatto diretto con il cielo che avevo sempre cercato, molto spesso inconsciamente, mettendomi sul balcone con un treppiede e il mio Mak 90, osservando e riosservando la Luna, Giove, Saturno, M42, M45… Un contatto scevro della modernità, puro, conoscitivo, introspettivo, mistico a tratti.
 
-Ho deciso di fare il passo successivo quindi, ho acquistato un Dobson Explore Scientific 305mm ed è così iniziata una nuova avventura.
+Ho deciso di fare il passo successivo quindi, ho acquistato un Dobson Explore Scientific 305/1525 ed è così iniziata una nuova avventura.
 
 ## La serata
 
@@ -30,9 +30,11 @@ Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori 
 
 | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente | Dimensione apparente
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| M45 |  | Pleiadi | Ammasso aperto | 1.6 | 150.0 x150.0 ' |
-|  | NGC 1977 | Nebulosa Running man | Nebulosa diffusa | | 40' x 25' |
+| M45 |  | Pleiadi | Ammasso aperto | 1.6 | 150.0 x 150.0 ' |
+|  | NGC1647 | | Ammasso aperto | 6.38 | 27.0 x 27.0 ' |
+|  | NGC1746 | | Ammasso aperto | 6.09 | 18.0 x 18.0 ‘ |
 
+Ho voluto continuare il riscaldamento, puntando alle Pleiadi: trovate facilmente, a 48x, ovviamente, l'ammasso non ci entrava, ti perdevi letteralmente al suo interno! 
+NGC1647 e NGC1746 invece, non mi hanno impressionato particolarmente ad essere sincero, anche se complessivamente entrambi gradevoli. Mi sono ripromesso di rivederli successivamente con più esperienza e migliore capacità di analisi.
 
-NGC1647 – Ammasso aperto – M6.39ag. 6.38 -  27.0 x 27.0 ' - Tau 
-NGC1746 – Ammasso aperto – Mag. 6.09 -  18.0 x 18.0 ‘ - Tau
+### Costellazione dell'Orsa Maggiore - UMa
