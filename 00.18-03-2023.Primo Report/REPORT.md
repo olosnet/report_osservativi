@@ -14,9 +14,8 @@ Ho deciso di fare il passo successivo quindi, ho acquistato un Dobson Explore Sc
 
 sabato 18 marzo 2023
 
-Ci tenevo molto a questa serata, non sapevo cosa
-
-\newpage
+Ci tenevo particolarmente a questa serata, ero parecchio in ritardo sulla mia personale tabella di marcia. 
+Il personal 
 
 
 ### Orione - Ori
@@ -29,9 +28,6 @@ Ci tenevo molto a questa serata, non sapevo cosa
 |![](./ngc1981.png) | NGC 1981 |  | Ammasso Aperto | 4,2 | 28' |
 
 Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori periodo. Ho puntato subito ad M42, non mi stanco mai nel vederla. Volevo inoltre confrontare ciò che ho visto sul terrazzo di casa nella serata di test del telescopio rispetto al cielo del Pollino, decisamente migliore. La nebulosa ai miei occhi appariva di un colore verdastro, rispetto alla visione "casalinga" ho notato un maggior contrasto e una ricchezza maggiore di particolari, il miglior equilibrio tra luminosita e dettagli l'ho avuto a 73x. Successivamente mi sono spostato e ho localizzato subito l'ammasso NGC 1981, in cui, facendo un po' di attenzione, erano presenti delle tenui nebulosità.
-
-\newpage
-
 
 ### Toro - Tau
 
@@ -47,8 +43,6 @@ Ho voluto continuare il riscaldamento, puntando alle Pleiadi: trovate facilmente
 NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarmente, anche se complessivamente entrambi gradevoli. Mi sono ripromesso di rivederli successivamente con più esperienza e migliori capacità di analisi.
 
 
-\newpage
-
 ### Orsa Maggiore - UMa
 
 ![](./uma.jpg)
@@ -62,9 +56,8 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 |![](./m109.png) | M109 | NGC 3992 | | Galassia a spirale barrata | 9,8 | 7,6' × 4,9' |
 |![](./m101.png) | M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
 
-Qui le cose hanno iniziato a farsi decisamente più interessanti. 
-
-\newpage
+Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniziare subito con la coppia M81 - M82, trovate dopo qualche tentativo. Tra le due M82 mi ha letteralmente entusiasmato, l'ho messa tra gli oggetti preferiti della serata. Era facilmente distinguibile la sua forma affusolata con delle piccole zone più scure al centro, di M81 invece riuscivo ad intuire la forma a spirale. Ho tentato successivamente con M101. I primi tentativi nel cercala sono falliti, ci sono tornato più tardi e sono riuscito con un po' di difficolta a trovarla. Sono passato poi ad M108, ne distinguevo tranquillamente la forma e forse dopo aver abituato gli occhi qualche dettaglio superficiale. 
+È arrivato poi il turno di m97, altro oggetto davvero interessante. Ai miei occhi si presentava inizialmente come una sfera, leggermente irregolare, abituando un po' la vista si riuscivano ad intravedere gli occhi della civetta, molto evanescenti. Ho aggiunto un filtro UHC, ne scuriva la superficie e aumentandone leggermente il contrasto migliorando leggermente i dettagli. Ho provato poi con un filtro OIII gentilmente prestatomi da Oronzo, ma per il mio gusto personale la visione ne risultava troppo scura.
 
 ### Cani da Caccia - Cvn
 
@@ -82,11 +75,9 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti.
 |![](./ngc4618.png) || NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
 |![](./ngc4625.png) || NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
 
+Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'.
 M3 prima parte 
 Coppia galassie 4618 (debole) 4625(molto debole)
-
-\newpage
-
 
 ### Chioma di Berenice - Com
 
@@ -97,8 +88,6 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 |![](./m53.png)  |M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
 |![](./ngc4565.png) | | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
 
-\newpage
-
 ### Cancro - Cnc
 
 ![](./cnc.jpg)
@@ -107,8 +96,6 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 |----------- |----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m44.png) | M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
 |![](./m67.png) | M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
-
-\newpage
 
 ### Leone - Leo
 
@@ -129,8 +116,6 @@ Coppia galassie 4618 (debole) 4625(molto debole)
 Gruppo di M96 ( M95, M96, M105, NGC 3299, NGC 3377, NGC 3384, NGC 3412, NGC 3489)
 NGC 3389 scarsamente visibile
 
-\newpage
-
 ### Serpente - Ser
 
 ![](./ser.jpg)
@@ -141,8 +126,6 @@ NGC 3389 scarsamente visibile
 
 Forma che richiama spirale m5
 
-\newpage
-
 ### Vergine - Vir
 
 ![](./vir.jpg)
@@ -151,7 +134,6 @@ Forma che richiama spirale m5
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m104.png) | M104 | NGC 5904 | Galassia sombrero | Galassia a spirale | 8,98 | 8,7' x 3,5' |
 
-\newpage
 
 ### Ercole - Her
 
@@ -162,7 +144,6 @@ Forma che richiama spirale m5
 | ![](./m13.png) | M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
 | ![](./m92.png) |M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
 
-\newpage
 
 ### Lira - Lyr
 
