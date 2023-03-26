@@ -57,7 +57,7 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 |![](./m101.png) | M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
 
 Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniziare subito con la coppia M81 - M82, trovate dopo qualche tentativo. Tra le due M82 mi ha letteralmente entusiasmato, l'ho messa tra gli oggetti preferiti della serata. Era facilmente distinguibile la sua forma affusolata con delle piccole zone più scure al centro, di M81 invece riuscivo ad intuire la forma a spirale. Ho tentato successivamente con M101. I primi tentativi nel cercala sono falliti, ci sono tornato più tardi e sono riuscito con un po' di difficoltà a trovarla. Sono passato poi ad M108, anche lei molto bella, ne distinguevo tranquillamente la forma e forse dopo aver abituato gli occhi qualche dettaglio superficiale. 
-È arrivato poi il turno di m97, altro oggetto davvero interessante. Ai miei occhi si presentava inizialmente come una sfera, leggermente irregolare, abituando un po' la vista si riuscivano ad intravedere gli occhi della civetta, molto evanescenti. Ho aggiunto un filtro UHC, ne scuriva la superficie e aumentandone leggermente il contrasto migliorando leggermente i dettagli. Ho provato poi con un filtro OIII gentilmente prestatomi da Oronzo, ma per il mio gusto personale la visione ne risultava troppo scura.
+È arrivato poi il turno di m97, altro oggetto davvero interessante. Ai miei occhi si presentava inizialmente come una sfera, leggermente irregolare, abituando un po' la vista si riuscivano ad intravedere gli occhi della civetta, molto evanescenti. Ho aggiunto un filtro UHC, ne scuriva la superficie e aumentandone leggermente il contrasto miglioravano leggermente i dettagli. Ho provato poi con un filtro OIII gentilmente prestatomi da Oronzo, ma per il mio gusto personale la visione ne risultava troppo scura.
 
 ### Cani da Caccia - Cvn
 
@@ -75,7 +75,7 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniz
 |![](./ngc4618.png) || NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
 |![](./ngc4625.png) || NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
 
-Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'. Ho deciso quindi di puntare ad m3 facilmente individuabile, e ne sono rimasto davvero ammaliato. L'avevo osservata tempo fa con il 200/800, a differenza della volte precedenti l'ammasso era risolto con molti più dettagli e le stelle al suo interno si distinguevano in maniera netta. Sono poi successivamente passato nella Chioma di Berenice per poi tornare qui in un secondo momento e passarmi in rassegna un po' di galassie: la Cocoon Galaxy è risultata molto interessante, anche in questo caso ne distinguevo la forma affusolata con discreta facilità. M94 si presentava invece come un piccolo ovale. La coppia di galassie 4618 e 4625 risultavano deboli alla vista, la seconda soprattutto era quasi impercettibile.
+Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'. Ho deciso quindi di puntare ad m3 facilmente individuabile, e ne sono rimasto davvero stupefatto. L'avevo osservato tempo fa con il 200/800 ma a differenza della volte precedenti l'ammasso era risolto con molti più dettagli e le stelle al suo interno si distinguevano in maniera netta. Sono poi successivamente passato nella Chioma di Berenice per poi tornare qui in un secondo momento e passarmi in rassegna un po' di galassie: la Cocoon Galaxy è risultata molto interessante, anche in questo caso ne distinguevo la forma affusolata con discreta facilità. M94 si presentava invece come un piccolo ovale. La coppia di galassie 4618 e 4625 risultavano deboli alla vista, la seconda soprattutto era quasi impercettibile.
 
 ### Chioma di Berenice - Com
 
@@ -85,6 +85,8 @@ Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'. Ho deci
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m53.png)  |M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
 |![](./ngc4565.png) | | NGC 4565 | Galassia Ago | Galassia a spirale | 9,7 | 15,8' x 2,1' |
+
+La Chioma di Berenice era davvero bella a vedersi. Dopo M3 nei Cani da Caccia ho proseguito su m53, per poi risalire sulla Galassia Ago: bellissima! Non mi sarei mai aspettato di vederla in questo modo, la sua forma perfettamente percepibile e la sua particolare angolazione, mi hanno letteralmente entusiasmato!
 
 ### Cancro - Cnc
 
