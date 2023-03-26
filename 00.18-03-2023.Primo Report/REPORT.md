@@ -4,7 +4,7 @@
 
 Oggi 21/03/2023 mi accingo a scrivere il mio primo report da visualista. 
 
-Un’importante premessa, la mia avventura da astrofilo ha avuto inizio un paio di anni fa circa (qualcosina in più forse) con l’astrofotografia che mi ha dato e continua a darmi soddisfazioni. Per me, sviluppatore software per passione prima e lavoro poi, è stato un passaggio abbastanza naturale: la mia praticità con lo strumento informatico ha aiutato molto e portato a discreti risultati in un lasso di tempo abbastanza breve. Ho letteralmente divorato video-tutorial, articoli, passato giorni a capire come risolvere i problemi più svariati, ad ottimizzare il setup a lavorare sulle procedure di elaborazione, insomma tutta quell’esperienza che un astrofotografo ha nel proprio bagaglio e che si  evolve continuamente.
+Un’importante premessa, la mia avventura da astrofilo ha avuto inizio un paio di anni fa circa (qualcosina in più forse) con l’astrofotografia che mi ha dato e continua a darmi soddisfazioni. Per me, sviluppatore software di professione, è stato un passaggio abbastanza naturale: la mia praticità con lo strumento informatico ha aiutato molto e portato a discreti risultati in un lasso di tempo abbastanza breve. Ho letteralmente divorato video-tutorial, articoli, passato giorni a capire come risolvere i problemi più svariati, ad ottimizzare il setup a lavorare sulle procedure di elaborazione, insomma tutta quell’esperienza che un astrofotografo ha nel proprio bagaglio e che si evolve continuamente.
 
 Col trascorrere del tempo mi sono accorto però di avere delle mancanze che l’astrofotografia non poteva colmare, almeno nel mio caso: ho foto dettagliate dei soggetti che decido di catturare, per carità, immagini che i miei occhi non riuscirebbero mai e poi mai a recepire con colori sfavillanti e particolari impressionanti. Ma non mi ero accorto, sommerso dal rumore della tecnica, di non avere quel contatto diretto con il cielo che avevo sempre cercato, molto spesso inconsciamente, mettendomi sul balcone con un treppiede e il mio Mak 90, osservando e riosservando la Luna, Giove, Saturno, M42, M45… Un contatto scevro della modernità, puro, conoscitivo, introspettivo, mistico a tratti.
 
@@ -56,7 +56,7 @@ NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarm
 |![](./m109.png) | M109 | NGC 3992 | | Galassia a spirale barrata | 9,8 | 7,6' × 4,9' |
 |![](./m101.png) | M101 | NGC 5457 | Galassia Girandola | Galassia a spirale | 8,3 | 28,8' × 26,9' |
 
-Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniziare subito con la coppia M81 - M82, trovate dopo qualche tentativo. Tra le due M82 mi ha letteralmente entusiasmato, l'ho messa tra gli oggetti preferiti della serata. Era facilmente distinguibile la sua forma affusolata con delle piccole zone più scure al centro, di M81 invece riuscivo ad intuire la forma a spirale. Ho tentato successivamente con M101. I primi tentativi nel cercala sono falliti, ci sono tornato più tardi e sono riuscito con un po' di difficolta a trovarla. Sono passato poi ad M108, ne distinguevo tranquillamente la forma e forse dopo aver abituato gli occhi qualche dettaglio superficiale. 
+Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniziare subito con la coppia M81 - M82, trovate dopo qualche tentativo. Tra le due M82 mi ha letteralmente entusiasmato, l'ho messa tra gli oggetti preferiti della serata. Era facilmente distinguibile la sua forma affusolata con delle piccole zone più scure al centro, di M81 invece riuscivo ad intuire la forma a spirale. Ho tentato successivamente con M101. I primi tentativi nel cercala sono falliti, ci sono tornato più tardi e sono riuscito con un po' di difficoltà a trovarla. Sono passato poi ad M108, anche lei molto bella, ne distinguevo tranquillamente la forma e forse dopo aver abituato gli occhi qualche dettaglio superficiale. 
 È arrivato poi il turno di m97, altro oggetto davvero interessante. Ai miei occhi si presentava inizialmente come una sfera, leggermente irregolare, abituando un po' la vista si riuscivano ad intravedere gli occhi della civetta, molto evanescenti. Ho aggiunto un filtro UHC, ne scuriva la superficie e aumentandone leggermente il contrasto migliorando leggermente i dettagli. Ho provato poi con un filtro OIII gentilmente prestatomi da Oronzo, ma per il mio gusto personale la visione ne risultava troppo scura.
 
 ### Cani da Caccia - Cvn
@@ -75,9 +75,7 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniz
 |![](./ngc4618.png) || NGC 4618 | | Galassia a spirale barrata | 11,2 | 4,2' × 3,4' | 
 |![](./ngc4625.png) || NGC 4625 | | Galassia nana | 13,2 | 1.3' × 1.2' |
 
-Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'.
-M3 prima parte 
-Coppia galassie 4618 (debole) 4625(molto debole)
+Dopo essendomi divertito sull'Orsa avevo necessità di riposarmi un po'. Ho deciso quindi di puntare ad m3 facilmente individuabile, e ne sono rimasto davvero ammaliato. L'avevo osservata tempo fa con il 200/800, a differenza della volte precedenti l'ammasso era risolto con molti più dettagli e le stelle al suo interno si distinguevano in maniera netta. Sono poi successivamente passato nella Chioma di Berenice per poi tornare qui in un secondo momento e passarmi in rassegna un po' di galassie: la Cocoon Galaxy è risultata molto interessante, anche in questo caso ne distinguevo la forma affusolata con discreta facilità. M94 si presentava invece come un piccolo ovale. La coppia di galassie 4618 e 4625 risultavano deboli alla vista, la seconda soprattutto era quasi impercettibile.
 
 ### Chioma di Berenice - Com
 
@@ -152,3 +150,6 @@ Forma che richiama spirale m5
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | ![](./m57.png) | M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
+
+
+## Conclusioni
