@@ -12,10 +12,27 @@ Ho deciso di fare il passo successivo quindi, ho acquistato un Dobson Explore Sc
 
 ## La serata
 
-sabato 18 marzo 2023
+Sabato 18 marzo 2023
 
 Ci tenevo particolarmente a questa serata, ero parecchio in ritardo sulla mia personale tabella di marcia. 
-Il personal 
+Era la mia prima uscita ufficiale da visualista e la mia prima volta sotto il cielo del Pollino.
+Sono arrivato per ultimo: Oronzo, Francesco e Nicola erano già disposti e intenti a preparare i loro setup. Ho parcheggiato lato visualisti, accanto a Francesco ed ho iniziato a montare il mio telescopio.
+
+Il cielo era terso, appena arrivato il crepuscolo le stelle iniziavano a mostrarsi: è sempre stupefacente ed emozionante per me guardare un cielo così ricco, dove le costellazioni sono facilmente distinguibili, i cieli cittadini ci hanno privato di tutta questa bellezza.
+
+La serata è iniziata alle 19.45 circa e terminata intorno alle 4. 
+
+Il tutto è trascorso velocemente ed in piacevole compagnia, i momenti di pura osservazione individuale erano intervallati da momenti gioviali e scambi di opinioni in cui Francesco ed Oronzo, che ringrazio, si prodigavano a darmi consigli e a correggermi senza far minimante pesare la mia inesperienza. 
+
+Non avevo grandi aspettative, devo essere sincero, avendo testato il telescopio sotto il mio cielo avevo constatato le mie scarse capacità nella tecnica dello star hopping, mi ero comunque fatto un piano osservativo che ho parzialmente disatteso.
+
+Il bottino comunque è stato proficuo ed inaspettato, sono riuscito a portare a casa:
+
+- 1 Nebulosa diffusa
+- 6 Ammassi aperti
+- 19 Galassie
+- 5 Ammassi globulari
+- 2 Nebulose planetarie
 
 
 ### Orione - Ori
@@ -108,8 +125,8 @@ In questa fase la stanchezza cominciava a farsi sentire, ho deciso di rivedermi 
 | |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./ngc3377.png) || NGC 3377 | | Galassia ellittica | 10,2 | 4,2' x 2,3' |
-|![](./ngc3412.png)  | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
-|![](./ngc3384.jpeg) | NGC 3384 | | Galassia ellittica | 10,9 | 5,5' x 2,5' | 
+|![](./ngc3412.png) | | NGC 3412 | | Galassia lenticolare | 10,54 | 3,6' × 2,0' | 
+|![](./ngc3384.jpeg) | | NGC 3384 | | Galassia ellittica | 10,9 | 5,5' x 2,5' | 
 |![](./m105.png) | M105 | NGC 3379 | | Galassia ellittica | 9,3 | 5,4' x 4,8' | 
 |![](./ngc3389.png) | | NGC 3389 | | Galassia a spirale | 12,4 | 2.7' x 1.3' | 
 |![](./m96.png) | M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
