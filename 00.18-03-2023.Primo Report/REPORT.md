@@ -97,6 +97,8 @@ La Chioma di Berenice era davvero bella a vedersi. Dopo M3 nei Cani da Caccia ho
 |![](./m44.png) | M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
 |![](./m67.png) | M67 | NGC 2682 | | Ammasso aperto | 6,1 | 30'|
 
+In questa fase la stanchezza cominciava a farsi sentire, ho deciso di rivedermi un po' m44 che mi restituisce sempre momenti piacevoli e rilassanti, per poi virare su m67 che non avevo mai osservato.
+
 ### Leone - Leo
 
 ![](./leo.jpg)
@@ -113,8 +115,7 @@ La Chioma di Berenice era davvero bella a vedersi. Dopo M3 nei Cani da Caccia ho
 |![](./m96.png) | M96 | NGC 3368 | | Galassia a spirale intermedia | 9,24 | 7,6' × 5,2' | 
 |![](./m95.png) | M95 | NGC 3351 | | Galassia a spirale barrata | 9,7 | 7,4' × 5,1' |
 
-Gruppo di M96 ( M95, M96, M105, NGC 3299, NGC 3377, NGC 3384, NGC 3412, NGC 3489)
-NGC 3389 scarsamente visibile
+È stata una bella maratona nel Leone, ho puntato al Gruppo di M96 di cui sono riuscito a vedere in totale 7 galassie, qui la lucidità complice un po' di freddo iniziava a venir meno. Mi sono limitato ad osservarle, forse, ragionando a posteriori, anche un po' frettolosamente, senza prendere nessun particolare appunto.
 
 ### Serpente - Ser
 
@@ -124,7 +125,7 @@ NGC 3389 scarsamente visibile
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m5.png) | M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
 
-Forma che richiama spirale m5
+Ci avevo preso gusto con gli ammassi globulari. Purtroppo non ho preso appunti riguardo l'osservazione di M5.
 
 ### Vergine - Vir
 
@@ -133,6 +134,8 @@ Forma che richiama spirale m5
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m104.png) | M104 | NGC 5904 | Galassia sombrero | Galassia a spirale | 8,98 | 8,7' x 3,5' |
+
+M104 altro oggetto top della serata, emozionato come un bambino nel vederla! Oltre a distinguerne la forma dopo aver abituato gli occhi era distinguibile una sottile linea oscura al centro che la tagliava in due.
 
 
 ### Ercole - Her
@@ -144,6 +147,8 @@ Forma che richiama spirale m5
 | ![](./m13.png) | M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
 | ![](./m92.png) |M 92 | NGC 6341 | | Ammasso Globulare | 6,3 | 11,2' |
 
+Bellissimo M13. In particolare si distinguono alcune stelle che richiamano la forma di una spirale.
+
 
 ### Lira - Lyr
 
@@ -153,5 +158,6 @@ Forma che richiama spirale m5
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | ![](./m57.png) | M 57 | NGC 6720 | Nebulosa Anello | Nebulosa Planetaria | 9,7 | 230" x 230" |
 
+Per finire ho voluto chiudere su m57, altra bellissima planetaria. Era chiaramente distinguibile l'anello con delle tenui sfumature interne. 
 
 ## Conclusioni
