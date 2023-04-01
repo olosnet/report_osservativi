@@ -7,6 +7,7 @@ Un’importante premessa, la mia avventura da astrofilo ha avuto inizio un paio 
 Col trascorrere del tempo mi sono accorto però di avere delle mancanze che l’astrofotografia non poteva colmare, almeno nel mio caso: ho foto dettagliate dei soggetti che decido di catturare, per carità, immagini che i miei occhi non riuscirebbero mai e poi mai a recepire con colori sfavillanti e particolari impressionanti. Ma non mi ero accorto, sommerso dal rumore della tecnica, di non avere quel contatto diretto con il cielo che avevo sempre cercato, molto spesso inconsciamente, mettendomi sul balcone con un treppiede e il mio Mak 90 osservando e riosservando la Luna, Giove, Saturno, M42, M45… Un contatto scevro della modernità, puro, conoscitivo, introspettivo, mistico a tratti.
 
 Ho deciso di fare il passo successivo quindi, ho acquistato un Dobson Explore Scientific 305/1525 ed è così iniziata una nuova avventura.
+
 ## La serata
 
 Sabato 18 marzo 2023
@@ -45,18 +46,14 @@ Per praticità ho suddiviso gli oggetti visti per costellazione.
 
 ### Orione - Ori
 
-![](./ori.jpg)
-
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m42.png) | M42 | NGC 1976 | Nebulosa di Orione | Nebulosa diffusa | 4 | 65' × 60' |
-|![](./ngc1981.png) | NGC 1981 |  | Ammasso Aperto | 4,2 | 28' |
+|![](./ngc1981.png) | | NGC 1981 |  | Ammasso Aperto | 4,2 | 28' |
 
 Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori periodo. Ho puntato subito ad M42, non mi stanco mai nel vederla. Volevo inoltre confrontare ciò che ho visto sul terrazzo di casa nella serata di test del telescopio rispetto al cielo del Pollino decisamente migliore. La nebulosa ai miei occhi appariva di un colore verdastro, rispetto alla visione "casalinga" ho notato un maggior contrasto e una ricchezza maggiore di particolari, il miglior equilibrio tra luminosita e dettagli l'ho avuto a 73x. Successivamente mi sono spostato e ho localizzato subito l'ammasso NGC 1981 in cui, facendo un po' di attenzione, erano presenti delle tenui nebulosità.
 
 ### Toro - Tau
-
-![](./tau.jpg)
 
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -67,10 +64,9 @@ Ho iniziato con un classico che non volevo farmi sfuggire, anche se ormai fuori 
 Ho voluto continuare il riscaldamento, puntando alle Pleiadi: trovate facilmente. A 48x, ovviamente, l'ammasso non ci entrava, mi sono letteralmente perso al suo interno! Visibili anche qui tenui nebulosità accanto alle stelle più luminose.
 NGC 1647 e NGC 1746, in tutta sincerità, non mi hanno impressionato particolarmente anche se complessivamente entrambi gradevoli. Mi sono ripromesso di rivederli successivamente con più esperienza e migliori capacità di analisi.
 
+\newpage
 
 ### Orsa Maggiore - UMa
-
-![](./uma.jpg)
 
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -86,11 +82,6 @@ Qui le cose hanno iniziato a farsi decisamente più interessanti. Ho voluto iniz
 
 ### Cani da Caccia - Cvn
 
-![](./cvn.jpg)
-
-![](./cvn_1.jpg)
-
-
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m3.png)  |M3 | NGC 5272 | | Ammasso globulare | 6,2 | 18' |
@@ -104,8 +95,6 @@ Dopo essermi divertito sull'Orsa avevo necessità di riposarmi un po'. Ho deciso
 
 ### Chioma di Berenice - Com
 
-![](./com.jpg)
-
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m53.png)  |M53 | NGC 5024 | | Ammasso globulare | 7,4 | 12,6' |
@@ -115,8 +104,6 @@ La Chioma di Berenice era davvero bella a vedersi. Dopo M3 nei Cani da Caccia ho
 
 ### Cancro - Cnc
 
-![](./cnc.jpg)
-
 | |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 |----------- |----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m44.png) | M44 | NGC 2632 | Ammasso del presepe o alveare | Ammasso aperto | 3,1 | 95' |
@@ -125,10 +112,6 @@ La Chioma di Berenice era davvero bella a vedersi. Dopo M3 nei Cani da Caccia ho
 In questa fase la stanchezza cominciava a farsi sentire, ho deciso di rivedermi un po' m44 che mi restituisce sempre momenti piacevoli e rilassanti per poi virare su m67 che non avevo mai osservato.
 
 ### Leone - Leo
-
-![](./leo.jpg)
-
-![](./leo_1.jpg)
 
 | |Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -144,17 +127,15 @@ In questa fase la stanchezza cominciava a farsi sentire, ho deciso di rivedermi 
 
 ### Serpente - Ser
 
-![](./ser.jpg)
-
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |![](./m5.png) | M5 | NGC 5904 | | Ammasso globulare | 5,6 | 23' |
 
 Ci avevo preso gusto con gli ammassi globulari. Purtroppo non ho preso appunti riguardo l'osservazione di M5.
 
-### Vergine - Vir
+\newpage
 
-![](./vir.jpg)
+### Vergine - Vir
 
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -165,8 +146,6 @@ M104 altro oggetto top della serata, emozionato come un bambino nel vederla! Olt
 
 ### Ercole - Her
 
-![](./her.jpg)
-
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | ![](./m13.png) | M 13 | NGC 6205 | Ammasso Globulare di Ercole | Ammasso Globulare | 5,8 | 23' |
@@ -174,10 +153,9 @@ M104 altro oggetto top della serata, emozionato come un bambino nel vederla! Olt
 
 Bellissimo M13. In particolare si distinguevano alcune stelle che richiamavano il disegno di una spirale.
 
+\newpage
 
 ### Lira - Lyr
-
-![](./lyr.jpg)
 
 | | Catalogo Messier | Catalogo NGC | Nome | Tipologia | Magnitudine apparente (v) | Dimensione apparente (v)
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
