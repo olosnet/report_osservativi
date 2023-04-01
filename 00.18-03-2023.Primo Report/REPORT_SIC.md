@@ -163,4 +163,4 @@ Per finire ho voluto chiudere su m57, altra bellissima planetaria. Era chiaramen
 
 La soddisfazione è stata tanta ed inaspettata. Probabilmente la prossima voltà tenderò ad osservare molti degli oggetti di questa lista cercando di fare un'analisi migliore e più ragionata. Vorrei oltretutto trovare un metodo per appuntare in maniera veloce (avevo pensato anche a dei semplici disegni) gli oggetti osservati.
 
-![Noi mentre osserviamo l'infinito](./m57.png) 
+![Noi mentre osserviamo l'infinito](./noi.jpg) 
